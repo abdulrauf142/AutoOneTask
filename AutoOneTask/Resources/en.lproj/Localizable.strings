@@ -1,0 +1,28 @@
+/* 
+  Localizeable.strings
+  AutoOneTask
+
+  Created by Abdul Rauf on 03/11/2019.
+  Copyright © 2019 Abdul Rauf. All rights reserved.
+*/
+"KEY_TITLE_MANUFACTURER_LIST" = "Manufacturer";
+
+"KEY_TITLE_CAR_MODEL_LIST" = "Car Models";
+
+"KEY_INVALID_URL" = "The URL is not valid";
+
+"KEY_NIL_PARAMETERS" = "Parameters nil";
+
+"KEY_NIL_REQUEST" = "Request is nil";
+
+"KEY_DATA_IS_INVALID" = "Data is invalid";
+
+"KEY_JSON_PARSING_FAILED" = "unable to parse to json";
+
+"KEY_QUERY_CANNOT_BE_EMPTY" = "Query can not be empty";
+
+"KEY_CANCEL" = "Cancel";
+
+"KEY_ERROR" = "Error!";
+
+"KEY_NETWORK_ERROR" = "Network error, Please try again";
